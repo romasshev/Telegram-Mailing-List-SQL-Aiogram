@@ -1,1 +1,0 @@
-# Telegram-Mailing-List-SQL-Aiogram
